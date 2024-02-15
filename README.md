@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, Welcome to my Github profile. 👋
+
+- 💬 Restarting my repositories in 2024.
+  
+  Trying to improve my skills contributing with code examples based on my daily studies
+
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-seiti&layout=compact&hide=html&theme=dark" alt="eduardo-seiti" />
+<div/>
+<br />
 
 <!--
 **eduardo-seiti/eduardo-seiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
